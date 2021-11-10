@@ -4,4 +4,4 @@ This repository contains my implementations to the problems for the famous **[Fr
 
 Click [here](http://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686/ref=ed_oe_p) to buy this great book.
 
-![book icon](http://f.cl.ly/items/0P102D1h250c0q3G3a1R/cover.jpg)
+[book url](https://mitpress.mit.edu/books/elements-computing-systems), (https://www.amazon.com/Elements-Computing-Systems-Principles-ebook/dp/B004HHORGA/ref=sr_1_1_title_0_main?s=books&ie=UTF8&qid=1329838149&sr=1-1)
